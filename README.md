@@ -1,4 +1,4 @@
-👕 ## Balanced Tree Clothing Co.: An SQL Case Study Provided by Danny Ma.
+👕 ##Balanced Tree Clothing Co.: An SQL Case Study Provided by Danny Ma.
 
 ![Capture](https://github.com/SrabanaBaidya/Balanced-Tree-Clothing-Co./assets/153310253/af777895-d6f9-48ec-8502-9c73f15bbccd)
 
